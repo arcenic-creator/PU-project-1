@@ -19,7 +19,7 @@ public class PlatformControllerAdv : MonoBehaviour
     [SerializeField] private bool isGrounded;
 
     [InspectorLabel("Extended Jumping")]
-    [SerializeField] float jumpForce = 5f;
+    [SerializeField] float jumpForce = 3f;
     bool isJumping;
     [SerializeField] float jumpTime = 0.5f;
     float jumpTimeLeft;
