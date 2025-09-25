@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 51535280e907bb846add46c7cab9ca0a
+guid: fe143d1bd3f9cae44b3258e7f2bffa26
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6663125771495907926
-    second: Voidground_0
+      213: 7689225270066295709
+    second: VA-1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Voidground_0
+      name: VA-1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 652a3cf169d287c50800000000000000
-      internalID: 6663125771495907926
+      spriteID: d933244d4ad95ba60800000000000000
+      internalID: 7689225270066295709
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b2c09eac440e71c459ab27645b7618bd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Voidground_0: 6663125771495907926
+      VA-1_0: 7689225270066295709
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
