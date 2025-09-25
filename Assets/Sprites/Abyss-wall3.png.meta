@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 51535280e907bb846add46c7cab9ca0a
+guid: c7d081d8e4b06ad4098b5202e6275465
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6663125771495907926
-    second: Voidground_0
+      213: -5480140295654208116
+    second: Abyss-wall3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Voidground_0
+      name: Abyss-wall3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 652a3cf169d287c50800000000000000
-      internalID: 6663125771495907926
+      spriteID: c8d0a36af61a2f3b0800000000000000
+      internalID: -5480140295654208116
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b2c09eac440e71c459ab27645b7618bd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Voidground_0: 6663125771495907926
+      Abyss-wall3_0: -5480140295654208116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
