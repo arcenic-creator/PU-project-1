@@ -29506,7 +29506,7 @@ Transform:
   m_GameObject: {fileID: 331470686}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -35.32, y: -6, z: -10}
+  m_LocalPosition: {x: -35.497, y: -6.313, z: -10}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29669,11 +29669,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2902939538203398374, guid: c88a7e87a8b655a4a9c23ecff704442d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -35.32
+      value: -35.497
       objectReference: {fileID: 0}
     - target: {fileID: 2902939538203398374, guid: c88a7e87a8b655a4a9c23ecff704442d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.25
+      value: -7.563
       objectReference: {fileID: 0}
     - target: {fileID: 2902939538203398374, guid: c88a7e87a8b655a4a9c23ecff704442d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -30297,7 +30297,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -35.32, y: -6, z: -10}
+  m_LocalPosition: {x: -35.497, y: -6.313, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -31992,7 +31992,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8146098173109206546, guid: c985dccda855a3c448f54309d3ad7ac2, type: 3}
       propertyPath: movespeed
-      value: 5
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37646,9 +37646,13 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 27.26
       objectReference: {fileID: 0}
+    - target: {fileID: 7737180175792282517, guid: c985dccda855a3c448f54309d3ad7ac2, type: 3}
+      propertyPath: m_UsedByEffector
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8146098173109206546, guid: c985dccda855a3c448f54309d3ad7ac2, type: 3}
       propertyPath: movespeed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
