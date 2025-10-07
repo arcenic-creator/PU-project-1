@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="571dc07f-a3f7-4146-ad36-4e4649f624c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/pausebutton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/pausebutton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PU-project-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PU-project-1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/pausebutton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Loadlevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/pausebutton.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -50,6 +51,8 @@
       <workItem from="1757580333170" duration="875000" />
       <workItem from="1757587551461" duration="731000" />
       <workItem from="1758783161541" duration="625000" />
+      <workItem from="1759822787685" duration="14000" />
+      <workItem from="1759822866150" duration="25000" />
     </task>
     <servers />
   </component>
