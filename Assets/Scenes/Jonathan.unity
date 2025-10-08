@@ -35067,7 +35067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ef9456f64e36de4db5a007f7b8a9ac0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneName: Jonathan - Abyss
+  nextSceneName: Jonathan - Abyss 1
 --- !u!61 &1943690053
 BoxCollider2D:
   m_ObjectHideFlags: 0
